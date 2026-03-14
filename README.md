@@ -31,7 +31,9 @@ Experienced in **multi-location agronomic trials, soil nutrient and carbon dynam
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
+
+**Researcher in Soil Science and Climate-Smart Agronomy with hands-on experience in field experimentation, greenhouse gas monitoring, and sustainability assessment in rice-based cropping systems.**
 
 ### Senior Research Coordinator
 
