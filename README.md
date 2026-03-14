@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/rajuirri02-blip/Raju-Resume/main/raju.jpg" width="170">
+</p>
 <h1 align="center">RAJU KUMAR</h1>
 <h3 align="center">Agricultural Research Professional | Climate-Smart Rice Systems | Soil Health & GHG Research</h3>
 
