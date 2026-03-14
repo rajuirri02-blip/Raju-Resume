@@ -1,18 +1,4 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/rajuirri02-blip/Raju-Resume/main/raju.jpg" width="170">
-</p>
-<h1 align="center">RAJU KUMAR</h1>
-<h3 align="center">Agricultural Research Professional | Climate-Smart Rice Systems | Soil Health & GHG Research</h3>
-
-<p align="center">
-📧 rajuirri02@gmail.com | 📱 +91-8862921337  
-📍 Muzaffarpur, Bihar, India  
-🔗 <a href="https://linkedin.com/in/raju-kumar-384989277">LinkedIn Profile</a>
-</p>
-
----
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/rajuirri02-blip/Raju-Resume/main/raju.jpg" width="180">
 </p>
 
