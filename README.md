@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Raju Kumar</h1>
-<h3 align="center">Future Soil Scientist | Climate-Smart Agriculture Researcher | IRRI</h3>
+<h3 align="center">Climate-Smart Agriculture Researcher | IRRI</h3>
 
 <p align="center">
 📧 rajuirri02@gmail.com • 📱 +91-8862921337 • 📍 Bihar, India <br>
