@@ -12,7 +12,7 @@
 
 ---
 
-## 🌱 Professional Summary
+## Professional Summary
 
 Agricultural research professional with **over two years of experience at the International Rice Research Institute (IRRI), South Asia Regional Centre, Varanasi**, contributing to research on climate-smart rice production systems, soil health diagnostics, and greenhouse gas mitigation strategies.
 
@@ -20,7 +20,7 @@ Experienced in **multi-location agronomic trials, soil nutrient and carbon dynam
 
 ---
 
-## 🔬 Research Expertise
+## Research Expertise
 
 * Climate-Smart Rice Systems (DSR, TPR, AWD, INM)
 * Soil Health Assessment & Nutrient Dynamics
@@ -31,7 +31,7 @@ Experienced in **multi-location agronomic trials, soil nutrient and carbon dynam
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Senior Research Coordinator
 
@@ -57,17 +57,23 @@ Experienced in **multi-location agronomic trials, soil nutrient and carbon dynam
 * Collected crop physiological and yield parameters using precision tools
 
 ---
+## 🧪 Technical Competencies
 
-## 🧪 Technical Competence
+**Statistical & Data Analysis:**
+R Studio | SPSS | XLSTAT | MS Excel
 
-R Studio • SPSS • XLSTAT • MS Excel
-Soil & Plant Laboratory Diagnostics
-Experimental Design • Field Data Collection
-SPAD Meter • GreenSeeker • NDVI Monitoring • Canopy Temperature
+**Soil & Plant Diagnostics:**
+Soil Chemical Analysis (pH, EC, Organic Carbon, NPK) | Plant Sampling & Nutrient Assessment
+
+**Field Research & Experimental Design:**
+Experimental Layout Planning | Agronomic Data Collection | Multi-location Trial Management
+
+**Precision Agriculture Tools:**
+SPAD Chlorophyll Meter | GreenSeeker NDVI Sensor | Canopy Temperature Monitoring | GPS-based Field Mapping
 
 ---
 
-## 📚 Publications
+## Publications
 
 * Calcium Sources and Nutrient Uptake in Apple Systems (2024)
 * Soil Property Dynamics under Calcium Nitrate Application (2024)
@@ -76,7 +82,7 @@ SPAD Meter • GreenSeeker • NDVI Monitoring • Canopy Temperature
 
 ---
 
-## 🧬 Innovations & Patents *(Filed – 2026)*
+## Innovations & Patents *(Filed – 2026)*
 
 * Passive Sampler for Atmospheric Ammonia Deposition
 * Water Measurement Scale for Standing Crops
@@ -84,12 +90,12 @@ SPAD Meter • GreenSeeker • NDVI Monitoring • Canopy Temperature
 
 ---
 
-## 🏆 Academic Achievement
+## Academic Achievement
 
 🥇 **All India Rank 1 – Soil Judging Contest (2025)**
 
 ---
 
-## 🎯 Career Vision
+## Career Vision
 
 To pursue doctoral research in **Soil Science and Climate-Resilient Agriculture**, contributing to globally relevant research on soil degradation, carbon dynamics, and sustainable cropping systems.
