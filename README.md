@@ -12,7 +12,7 @@
 
 ---
 
-## 🌱 Research Profile
+## Research Profile
 
 Agricultural research professional with **2+ years of experience at the International Rice Research Institute (IRRI), South Asia Regional Centre, Varanasi**, working on soil health diagnostics, climate-smart rice production systems and greenhouse gas mitigation strategies.
 
@@ -31,7 +31,7 @@ Experienced in **multi-location field experimentation, soil carbon dynamics, pre
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Senior Research Coordinator
 
@@ -58,7 +58,7 @@ Experienced in **multi-location field experimentation, soil carbon dynamics, pre
 
 ---
 
-## 🧪 Technical Expertise
+## Technical Expertise
 
 R Studio • SPSS • XLSTAT • MS Excel
 Soil Chemical Analysis • Experimental Design • Field Data Collection
@@ -66,7 +66,7 @@ SPAD Meter • GreenSeeker • NDVI Monitoring • Canopy Temperature
 
 ---
 
-## 📚 Publications
+## Publications
 
 * Calcium Sources and Nutrient Uptake in Apple Systems (2024)
 * Soil Property Dynamics under Calcium Nitrate Application (2024)
@@ -75,7 +75,7 @@ SPAD Meter • GreenSeeker • NDVI Monitoring • Canopy Temperature
 
 ---
 
-## 🧬 Innovations & Patents
+## Innovations & Patents
 
 * Passive Sampler for Atmospheric Ammonia Deposition *(Filed – 2026)*
 * Water Measurement Scale for Standing Crops *(Filed – 2026)*
@@ -83,12 +83,12 @@ SPAD Meter • GreenSeeker • NDVI Monitoring • Canopy Temperature
 
 ---
 
-## 🏆 Academic Achievement
+## Academic Achievement
 
 🥇 **All India Rank 1 – Soil Judging Contest (2025)**
 
 ---
 
-## 🎯 Career Vision
+## Career Vision
 
 To pursue doctoral research in **Soil Science and Climate-Resilient Agriculture** and contribute to globally relevant research on soil degradation, carbon dynamics and sustainable cropping systems.
