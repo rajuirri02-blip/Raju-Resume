@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Raju Kumar</h1>
-<h3 align="center">Climate-Smart Agriculture Researcher | IRRI</h3>
+<h3 align="center">Soil Science Research Professional | Climate-Smart Agriculture | GHG & Sustainability Research</h3>
 
 <p align="center">
 📧 rajuirri02@gmail.com • 📱 +91-8862921337 • 📍 Bihar, India <br>
@@ -12,61 +12,62 @@
 
 ---
 
-## Research Profile
+## 🌱 Professional Summary
 
-Agricultural research professional with **2+ years of experience at the International Rice Research Institute (IRRI), South Asia Regional Centre, Varanasi**, working on soil health diagnostics, climate-smart rice production systems and greenhouse gas mitigation strategies.
+Agricultural research professional with **over two years of experience at the International Rice Research Institute (IRRI), South Asia Regional Centre, Varanasi**, contributing to research on climate-smart rice production systems, soil health diagnostics, and greenhouse gas mitigation strategies.
 
-Experienced in **multi-location field experimentation, soil carbon dynamics, precision agronomy tools and statistical data analysis using R, SPSS and Excel** for sustainable agricultural intensification.
+Experienced in **multi-location agronomic trials, soil nutrient and carbon dynamics assessment, precision agriculture tools, and statistical data analysis using R, SPSS, and MS Excel** to support sustainable agricultural intensification and climate resilience.
 
 ---
 
-## 🔬 Core Research Areas
+## 🔬 Research Expertise
 
 * Climate-Smart Rice Systems (DSR, TPR, AWD, INM)
-* Soil Health & Nutrient Dynamics
+* Soil Health Assessment & Nutrient Dynamics
 * Greenhouse Gas Emission Monitoring (CH₄, N₂O, CO₂)
-* Regenerative and Natural Farming Systems
-* Life Cycle Assessment in Agriculture
+* Regenerative & Sustainable Farming Systems
+* Life Cycle Assessment (LCA) in Agriculture
 * Precision Agriculture & Digital Decision Tools
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### Senior Research Coordinator
 
-**International Rice Research Institute (IRRI) | 2025 – Present**
+**International Rice Research Institute (IRRI), Varanasi | June 2025 – Present**
 
-* Leading climate-smart agronomic trials across multiple agro-ecological locations
-* Supervising soil respiration and GHG flux monitoring using static chamber methods
-* Conducting statistical modelling and sustainability assessments
-* Supporting large collaborative mitigation research projects
+* Managing multi-location climate-smart agronomic trials across diverse agro-ecological regions
+* Supervising soil respiration and GHG flux monitoring using static chamber methodology
+* Conducting statistical modelling and sustainability performance assessment
+* Coordinating collaborative mitigation research initiatives supported by international partners
 
 ### Research Coordinator
 
-**IRRI | 2024 – 2025**
+**IRRI | July 2024 – June 2025**
 
-* Experimental design implementation and crop performance evaluation
-* Soil nutrient dynamics assessment and structured data management
+* Implemented experimental designs and monitored crop performance
+* Conducted soil nutrient dynamics studies and structured dataset preparation
 
-### Research Intern
+### Research Intern – Soil Science & Climate-Smart Agriculture
 
-**IRRI | 2023 – 2024**
+**IRRI | Nov 2023 – July 2024**
 
-* Conducted controlled agronomic experiments and laboratory soil analysis
+* Performed soil laboratory analysis (pH, EC, Organic Carbon, NPK)
 * Collected crop physiological and yield parameters using precision tools
 
 ---
 
-## Technical Expertise
+## 🧪 Technical Competence
 
 R Studio • SPSS • XLSTAT • MS Excel
-Soil Chemical Analysis • Experimental Design • Field Data Collection
+Soil & Plant Laboratory Diagnostics
+Experimental Design • Field Data Collection
 SPAD Meter • GreenSeeker • NDVI Monitoring • Canopy Temperature
 
 ---
 
-## Publications
+## 📚 Publications
 
 * Calcium Sources and Nutrient Uptake in Apple Systems (2024)
 * Soil Property Dynamics under Calcium Nitrate Application (2024)
@@ -75,20 +76,20 @@ SPAD Meter • GreenSeeker • NDVI Monitoring • Canopy Temperature
 
 ---
 
-## Innovations & Patents
+## 🧬 Innovations & Patents *(Filed – 2026)*
 
-* Passive Sampler for Atmospheric Ammonia Deposition *(Filed – 2026)*
-* Water Measurement Scale for Standing Crops *(Filed – 2026)*
-* Field Deployable Soil Respiration Flux Chamber *(Filed – 2026)*
+* Passive Sampler for Atmospheric Ammonia Deposition
+* Water Measurement Scale for Standing Crops
+* Field Deployable Soil Respiration Flux Chamber
 
 ---
 
-## Academic Achievement
+## 🏆 Academic Achievement
 
 🥇 **All India Rank 1 – Soil Judging Contest (2025)**
 
 ---
 
-## Career Vision
+## 🎯 Career Vision
 
-To pursue doctoral research in **Soil Science and Climate-Resilient Agriculture** and contribute to globally relevant research on soil degradation, carbon dynamics and sustainable cropping systems.
+To pursue doctoral research in **Soil Science and Climate-Resilient Agriculture**, contributing to globally relevant research on soil degradation, carbon dynamics, and sustainable cropping systems.
